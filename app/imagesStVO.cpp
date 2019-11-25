@@ -19,7 +19,7 @@
 **  along with this program.  If not, see <http://www.gnu.org/licenses/>.   **
 **                                                                          **
 *****************************************************************************/
-// 工程自定义的头文件
+// 工程自定义的头文件 weihao123456
 #include <sceneRepresentation.h>
 #include <stereoFrame.h>
 #include <stereoFrameHandler.h>
